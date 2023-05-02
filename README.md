@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @huychac03
 - 👀 I’m interested in data
 - 🌱 I’m currently a DE
+- I'm deciding between DE and DevOps 
 - 📫 How to reach me huychac123@gmail.com
 
 <!---
